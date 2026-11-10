@@ -15,6 +15,7 @@
 | [007](adr/ADR-007-asistente.md) | Asistente con reglamento completo y herramientas de solo lectura |
 | [008](adr/ADR-008-autenticacion.md) | Correo y contraseña con sesiones revocables en el servidor |
 | [009](adr/ADR-009-correos.md) | Resend para correos |
+| [010](adr/ADR-010-monorepo.md) | pnpm con workspaces, sin herramienta de monorepo adicional |
 
 ## Diagrama de arquitectura
 
